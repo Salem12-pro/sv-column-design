@@ -1,0 +1,128 @@
+body {
+  background: white;
+  width: 100%;
+  scroll-behavior: smooth;
+}
+nav {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+
+.leftdiv {
+  background: #d5d5d5;
+  width: 50%;
+  padding: 0 45px;
+}
+
+.logo {
+  font-size: 30px;
+}
+
+.rightdiv {
+  background: url(./images/20\ Super\ Dreamy\ Outdoor\ Spaces.jpeg);
+  width: 50%;
+}
+.leftdivcol {
+  color: tomato;
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style: none;
+  font-size: 30px;
+  color: white;
+}
+
+.ba {
+  font-size: 40px;
+  margin-top: 160px;
+}
+
+.herop {
+  font-size: 30px;
+}
+
+.rectangle {
+  background: tomato;
+  height: 20px;
+  width: 40%;
+}
+
+/* second section starts here */
+
+.sec2 {
+  /* border: 2px solid black; */
+  padding: 80px;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sec2leftdiv {
+  width: 25%;
+  height: 70%;
+  background: #d5d5d5;
+  margin-right: 25px;
+  padding: 45px 35px;
+}
+
+.sec2leftdiv h4 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.sec2rightdiv {
+  width: 25%;
+  height: 100%;
+  background: url(./images/New\ York\ Architecture\ Images-\ World\ Trade\ Center.jpeg);
+  background-size: cover;
+}
+/* second section ends here */
+/* third section starts here */
+.sec3 {
+  /* border: 1px solid black; */
+  padding: 80px;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #d5d5d5;
+}
+
+.sec3leftdiv {
+  width: 25%;
+  height: 70%;
+  background: tomato;
+  padding: 45px 35px;
+}
+
+.sec3leftdiv h4 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.sec3rightdiv {
+  margin-right: 25px;
+  width: 25%;
+  height: 100%;
+  background: url(./images/Essentials\ For\ a\ Built-In\ Reading\ Nook\ \(1\)\ copy.jpeg);
+  background-size: cover;
+}
+/* third section ends here */
+
+/* footer section starts here */
+footer {
+  border: 1px solid tomato;
+  margin: 0px;
+  background: tomato;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 10px 30px;
+  color: white;
+}
+/* footer section ends here */
