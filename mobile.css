@@ -1,14 +1,22 @@
 @media screen and (max-width:900px) {
     nav{
-        height: 100vh;
+        height: auto;
+        padding-bottom: 20px ;
 
+    }
+    .logo{
+      font-size: 15px;
     }
 
     .ba{
         font-size: 15px;
-        margin-top: 80px;
-
+        margin-top: 40px;
     }
+
+   .rectangle{  
+     margin-bottom: 50pxgit add;
+  } 
+    
 
    ul{
     flex-direction: column;
