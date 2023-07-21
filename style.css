@@ -22,6 +22,7 @@ nav {
 .rightdiv {
   background: url(./images/20\ Super\ Dreamy\ Outdoor\ Spaces.jpeg);
   width: 50%;
+  background-position: center;
 }
 .leftdivcol {
   color: tomato;
